@@ -1,0 +1,102 @@
+span,p,h3,h2,h4,h1{
+    margin: 0;
+}
+.top{
+    background-color: #ff2b2b;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+    padding: 40px 0;
+}
+.top h3{
+    color: white;
+    font-size: 40px;
+    margin: 0;
+    font-weight: 100;
+}
+.top nav{
+    background-color: red;
+    
+   
+    
+    color: white;
+}
+.navbar{
+    background-color: #eb3c3c;
+    color: white;
+    display: flex;
+    gap: 20px;
+}
+.navbar span{
+font-size: 13px;
+}
+.top button{
+    background-color: black;
+    color: white;
+    padding: 3px 10px;
+}
+.center {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 35px 0;
+    
+}
+.center div  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    width: 500px;
+     
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 3px 2px;
+}
+.third {
+    background-color: #ede8e8;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    gap: 20px;
+padding-bottom: 50px;
+padding-top: 30px;
+}
+.third div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    width: 515px;
+}
+.four {
+    background-color: #5c5959;
+    color: white;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+    .five {
+        background-color: white;
+        display: flex;
+       
+        justify-content: center;
+        align-items: center;
+        padding-top: 40px;
+    }
+    h6 {
+         display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Times New Roman', Times, serif;
+    }
